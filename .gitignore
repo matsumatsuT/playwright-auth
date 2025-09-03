@@ -11,3 +11,6 @@ node_modules/
 
 # claudeの設定ファイル
 .claude/*
+
+# session情報
+moneyforward-state.json
